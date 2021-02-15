@@ -1,4 +1,4 @@
-All the task performed during internship are stored in this repository.
+All the tasks performed during the internship are stored in this repository.
 
 Data for Task1 :  http://bit.ly/w-data
 
