@@ -1,3 +1,5 @@
-# Simple-Linear-Regression
-This is code for simple linear regression supervised machine learning algorithm.
-Data can be found at http://bit.ly/w-data
+All the task performed during internship are stored in this repository
+Data for Task1 :  http://bit.ly/w-data
+
+Data for Task2 :  https://bit.ly/3kXTdox
+
